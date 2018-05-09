@@ -21,7 +21,7 @@ If you want to get PSIFT feature,just read this 4 step:
 
 # Application
 You can match two feature picture with PSIFT:
-[man](./figure/man.jpg)
-[four](./figure/four.png)
+![man](./figure/man.jpg)
+![four](./figure/four.png)
 
 More:https://ieeexplore.ieee.org/abstract/document/7059198/
