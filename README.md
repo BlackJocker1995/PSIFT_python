@@ -2,7 +2,7 @@
 PSIFT is a special SIFT methon to feature.Is is different from SIFT,it just detector the maximun value in gaussian pyramid.
 You can get more information form (https://www.sciencedirect.com/science/article/pii/S003132031400394X)
 
-And i`am not the auther of that paper.I just implement his methon using pyhton.By the way,this methon i written may not achiveve his desired effect.
+And i am not the auther of that paper.I just implement his methon using pyhton.By the way,this methon i written may not achiveve his desired effect.
 # How to use it?
 There are one example test_PSIFT.py.At first ,you need twe picture which is used to be detectored in the methon.
 ```python
